@@ -20,3 +20,4 @@ Um podcast descontraído e informativo, com linguagem simplificada e direta.
 
 ## 💭 Reflexão (Opcional)
 A utilização de Inteligência Artificial pode contribuir para atingir o público-alvo de um produto ou serviço de forma mais atrativa.
+
